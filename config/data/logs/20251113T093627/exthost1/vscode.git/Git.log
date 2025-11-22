@@ -1,0 +1,25 @@
+2025-11-13 09:36:48.648 [info] [main] Log level: Info
+2025-11-13 09:36:48.648 [info] [main] Validating found git in: "git"
+2025-11-13 09:36:48.648 [info] [main] Using git "2.43.0" from "git"
+2025-11-13 09:36:48.648 [info] [Model][doInitialScan] Initial repository scan started
+2025-11-13 09:36:48.648 [info] > git rev-parse --show-toplevel [6ms]
+2025-11-13 09:36:48.648 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-13 09:36:48.648 [info] > git rev-parse --show-toplevel [19ms]
+2025-11-13 09:36:48.648 [info] fatal: detected dubious ownership in repository at '/config/workspace/TCC-2025'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /config/workspace/TCC-2025
+2025-11-13 09:36:48.648 [info] > git rev-parse --show-toplevel [5ms]
+2025-11-13 09:36:48.648 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-13 09:36:48.648 [info] > git rev-parse --show-toplevel [7ms]
+2025-11-13 09:36:48.648 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-13 09:36:48.648 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (1)
+2025-11-13 09:37:10.175 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 09:37:10.175 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-11-13 09:37:11.328 [info] > git rev-parse --show-toplevel [3ms]
+2025-11-13 09:37:11.328 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

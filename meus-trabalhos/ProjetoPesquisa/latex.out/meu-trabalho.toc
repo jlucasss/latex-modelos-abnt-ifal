@@ -1,0 +1,40 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\chapternumberline {1}Introdução}{10}{chapter.1}%
+\contentsline {chapter}{\chapternumberline {2}Objetivos}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Objetivo geral}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Objetivos específicos}{11}{section.2.2}%
+\contentsline {chapter}{\chapternumberline {3}Justificativa}{12}{chapter.3}%
+\contentsline {chapter}{\chapternumberline {4}Referencial Teórico}{13}{chapter.4}%
+\contentsline {chapter}{\chapternumberline {5}Metodologia}{14}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {6}Recursos}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Recursos materiais}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recursos humanos}{15}{section.6.2}%
+\contentsline {chapter}{\chapternumberline {7}Cronograma}{16}{chapter.7}%
+\contentsline {chapter}{Refer\^encias}{18}{chapter*.11}%
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\contentsline {part}{Ap\^endices}{20}{section*.12}%
+\contentsline {appendix}{\chapternumberline {A}Nome do apêndice}{21}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {B}Estrutura de trabalhos acadêmicos}{22}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {C}Sobre as ilustrações}{24}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Quadros e tabelas}{25}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Figuras}{26}{section.C.2}%
+\contentsline {section}{\numberline {C.3}Equações}{27}{section.C.3}%
+\contentsline {section}{\numberline {C.4}Algoritmos}{27}{section.C.4}%
+\contentsline {appendix}{\chapternumberline {D}Sobre as listas}{28}{appendix.D}%
+\contentsline {appendix}{\chapternumberline {E}Sobre as citações e chamadas de referências}{29}{appendix.E}%
+\contentsline {section}{\numberline {E.1}Citações livres}{29}{section.E.1}%
+\contentsline {section}{\numberline {E.2}Citações literais}{30}{section.E.2}%
+\contentsline {section}{\numberline {E.3}Mais detalhes sobre as chamadas de referências}{32}{section.E.3}%
+\contentsline {appendix}{\chapternumberline {F}Sobre as referências bibliográficas}{33}{appendix.F}%
+\contentsline {section}{\numberline {F.1}Entradas de referências}{33}{section.F.1}%
+\contentsline {section}{\numberline {F.2}Notas de rodapé}{34}{section.F.2}%
+\contentsline {subsection}{\numberline {F.2.1}Notas de referências: uso de idem, ibidem, opus citatus e outros}{35}{subsection.F.2.1}%
+\contentsline {section}{\numberline {F.3}Datas em referências}{35}{section.F.3}%
+\contentsline {appendix}{\chapternumberline {G}Ferramentas para Gerenciar a Bibliografia}{37}{appendix.G}%
+\contentsline {subsection}{\numberline {G.0.1}Problemas com Conversão para Maiúsculas}{37}{subsection.G.0.1}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\contentsline {part}{Anexos}{38}{section*.13}%
+\contentsline {appendix}{\chapternumberline {A}Nome do anexo}{39}{appendix.anexochapback.1}%
+\contentsline {chapter}{\'{I}ndice Remissivo}{40}{section*.14}%

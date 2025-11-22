@@ -37,6 +37,8 @@
 % Pacotes utilizados
 % ------------------------------------------------------------------------------
 \RequirePackage{hyperref}
+% Redefine \htmladdnormallink para usar \href
+\newcommand{\htmladdnormallink}[2]{\href{#2}{#1}}
 \RequirePackage{chngcntr}
 \RequirePackage{etoolbox}
 \RequirePackage{pdfpages}

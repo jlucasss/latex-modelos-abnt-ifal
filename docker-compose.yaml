@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  code-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: code-server
+    environment:
+      - PASSWORD=${PASSWORD}
+      - TZ=America/Maceio
+    volumes:
+      - ./config:/home/abc/.config
+      - .:/home/abc/workspace
+    ports:
+      - "8443:8443"
+    restart: unless-stopped
+    env_file:
+      - .env
+    user: "${PUID}:${PGID}"
+    command: ["code-server", "--bind-addr", "0.0.0.0:8443", "--auth", "password", "/home/abc/workspace/meus-trabalhos"]
