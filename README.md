@@ -71,8 +71,8 @@ O script também gerencia automaticamente o arquivo `.env` com variáveis como s
 
 1. **Clonar o repositório**
    ```bash
-   git clone https://github.com/seuusuario/seurepo.git
-   cd seurepo
+   git clone https://github.com/jlucasss/latex-modelos-abnt-ifal.git
+   cd latex-modelos-abnt-ifal
    ```
 
 2. **Construir a imagem**
